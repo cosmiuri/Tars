@@ -1,0 +1,8 @@
+chromadb
+sentence-transformers
+requests
+pymupdf
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
