@@ -117,7 +117,7 @@ Answer:
 
 
 if __name__ == "__main__":
-    question = "tars, what is tesseract?"
+    question = ("tars, roses or daffodils?")
 
     results = search_interstellar(question)
 
